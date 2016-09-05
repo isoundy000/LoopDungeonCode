@@ -1,0 +1,12 @@
+{
+    "id" : 2,
+    "name" : "Heal",
+    "cost" : 2.0,
+    "cooldown" : 5.0,
+    "actions" : [
+        {
+            "type"  : "Heal",
+            "value" : 10.0
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id" : 0,
+    "name" : "IceArrow",
+    "cost" : 1.0,
+    "cooldown" : 1.0,
+    "actions" : [
+        {
+            "type"  : "Projectile",
+            "range" : 10,
+            "fx"    : "Arrows/IceArrow",
+            "speed" : 800
+        },
+        {
+            "type" : "Effect",
+            "effects" : [
+                {
+                    "type"  :  "Slow",
+                    "duration" : 2.0,
+                }
+            ]
+        }
+       
+    ]
+}

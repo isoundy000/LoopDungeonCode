@@ -1,0 +1,25 @@
+{
+    "id" : 1,
+    "name" : "MegaFileBall",
+    "cost" : 1.0,
+    "cooldown" : 1.0,
+    "actions" : [
+        {
+            "type"  : "Projectile",
+            "range" : 10,
+            "fx"    : "FireMega",
+            "speed" : 300
+        },
+        {
+            "type" : "Effect",
+            "effects" : [
+                {
+                    "type"  :  "Burning",
+                    "duration" : 2.0,
+                    "dps" : 10.0,
+                }
+            ]
+        }
+       
+    ]
+}

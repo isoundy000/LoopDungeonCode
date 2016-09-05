@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d13da1f1723ec844c96de03431f7b431
+timeCreated: 1472885466
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 40
+  forceTextureCase: 3
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - PWSharpBrush
+  fallbackFontReferences: []
+  customCharacters: 'COMBcomb1234567890! '
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
